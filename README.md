@@ -1,2 +1,17 @@
-# Anna-AI-Yoga-Instructor
-It is a mobile application designed using flutter in which various asanas are provided with video lessons and when the user performs the asanas the video feed of them doing the asanas is captured and then the algorithm compares the video feed and the recorded video and tells whether they are doing it correctly
+# ai_yoga
+
+Apk:  https://drive.google.com/uc?export=download&id=1fTt5A-AiaRQuk_Jb6ZDlfst6F5LK38hQ
+
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
